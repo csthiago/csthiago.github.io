@@ -1,5 +1,5 @@
 ---
-title: Teste
+title: Thiago Cerqueira-Silva
 layout: home
 description: Este é um commit teste. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
